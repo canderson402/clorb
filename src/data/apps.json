@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Guitar Practice",
+    "description": "This has various tools for practicing guitar, but the principals can be used for general music theory as well.",
+    "thumbnail": "/assets/guitar_practice.png",
+    "url": "https://canderson402.github.io/guitar_practice_web/"
+  },
+  {
+    "id": 2,
+    "name": "Video Annotate",
+    "description": "This tool allows you to load in youtyube viudeos and leave notes at certain times.  This contains a second function that allows you to make custom playlists of youtube videos with ambient sound laid over the top",
+    "thumbnail": "/assets/video_annotate.png",
+    "url": "https://canderson402.github.io/annotate_video/"
+  }
+]
